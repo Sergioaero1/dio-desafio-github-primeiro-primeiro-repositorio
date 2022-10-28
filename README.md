@@ -1,5 +1,5 @@
 # Niterói 27/10/2022
-## DIO
+## DIO-desafio-github-primeiro-repositorio
 Desafio de projeto sobre GITHUB
 
 ## Links Úteis
